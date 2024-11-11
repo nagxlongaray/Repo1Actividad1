@@ -1,0 +1,9 @@
+#Añadirmos la configuración local a .gitignore
+configuracion_local.sh
+
+#Añadimos las extensiones de archivo .psd y .xcf a .gitignore
+img/GitHub-logo.psd
+img/git_logo.xcf
+
+#Añadimos archivo privado a .gitignore
+archivos_privados/
